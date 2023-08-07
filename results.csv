@@ -1,40 +1,40 @@
 ,classname_kor,classname_eng,actual_dps,short_dps,long_dps,nuking_dps,edps,edps_time_length
-character_lancemaster_pinnacle.json,"Ã¢¼ú»ç(ÀıÁ¤, 3³­¹«4ÁıÁß)","Graivier(pinnacle, 3 Flurry & 4 Focus)",25777697,65412851,49482462,46270360,49482462.375,8.0
-character_lancemaster_control.json,Ã¢¼ú»ç(ÀıÁ¦),Graivier(control),25190346,31607261,30110433,31792214,30354385.853658535,12.3
-character_blade_burst.json,ºí·¹ÀÌµå(¹ö½ºÆ®),Deathblade(surge),23690048,32381699,33069424,31995306,33262254.803149607,12.7
-character_blade_remaining_energy.json,ºí·¹ÀÌµå(ÀÜÀçµÈ ±â¿î),Deathblade(remaining energy),23280674,27800600,27203198,27516433,28693636.285714287,10.5
-character_reaper_lunar_voice.json,¸®ÆÛ(´ŞÀÇ ¼Ò¸®),Reaper(lunar voice),22028675,39076172,29716822,38461201,36727194.777777776,9.0
-character_reaper_hunger.json,¸®ÆÛ(°¥Áõ),Reaper(hunger),21630307,32832533,29781260,30202700,29781259.875,8.0
-character_devilhunter_enhanced_weapon.json,µ¥ºôÇåÅÍ(°­È­ ¹«±â),Deadeye(enhanced weapon),21127881,51214083,48867064,45237757,48867064.375,8.0
-character_destroyer_rage_hammer.json,µğ½ºÆ®·ÎÀÌ¾î(ºĞ³ëÀÇ ¸ÁÄ¡),Destroyer(rage hammer),20933285,37352533,34189546,27720977,34189546.0,8.0
-character_slayer_devourer_7m.json,"½½·¹ÀÌ¾î(Æ÷½ÄÀÚ, Æä¼ÒÃ¤¿ë7µô)","Slayer(devourer, 7m)",20801097,40450659,37011869,35593400,37011869.125,8.0
-character_striker_deathblow_c1.json,"½ºÆ®¶óÀÌÄ¿(ÀÏ°İÇÊ»ì, 3¿ÀÀÇ Ç³½ÅÃÊ·¡)","Striker(deathblow, 3 esotheric call the wind god)",20725462,36730026,27656452,28773661,29972563.854166668,9.6
-character_slayer_punisher.json,"½½·¹ÀÌ¾î(Ã³´ÜÀÚ, 1.5»çÀÌÅ¬2±æ2Ç»)",Slayer(punisher),20672182,60559819,55014474,56695581,55014473.5,8.0
-character_berserker_mayhem.json,"¹ö¼­Ä¿(±¤±â, È¥ÀÏÈÖ¸ô24ÃÊ)",Berserker(mayhem),20042019,39660948,37427189,31557481,37427189.125,8.0
-character_slayer_devourer_6m.json,"½½·¹ÀÌ¾î(Æ÷½ÄÀÚ, 6µô)","Slayer(devourer, 6m)",19986751,44280273,33617074,33304530,33617074.5,8.0
-character_scouter_arthetinean_skill.json,"½ºÄ«¿ìÅÍ(¾Æ¸£µ¥Å¸ÀÎÀÇ ±â¼ú, 332)","Machinist(arthetinean skill, 332)",19951075,48956955,37136413,34753489,37136412.75,8.0
-character_striker_deathblow.json,"½ºÆ®¶óÀÌÄ¿(ÀÏ°İÇÊ»ì, 3¿ÀÀÇ Æø¼âÁø)","Striker(deathblow, 3 esotheric blast formation)",19931483,45292334,36570136,35207188,37830520.493827164,8.1
-character_demonic_perfect_suppression.json,µ¥¸ğ´Ğ(¿Ïº®ÇÑ ¾ïÁ¦),Shadowhunter(perfect suppression),19727976,32348274,24763958,24833786,29338557.82178218,10.1
-character_infighter_taijutsu.json,ÀÎÆÄÀÌÅÍ(±ØÀÇ : Ã¼¼ú),Scrapper(taijutsu),19656070,24978775,22461440,24009986,22941436.024096385,8.3
-character_scouter_evolutionary_legacy.json,½ºÄ«¿ìÅÍ(ÁøÈ­ÀÇ À¯»ê),Machinist(evolutionary legacy),19468084,21813648,21959122,23762479,22958263.333333336,8.1
-character_infighter_shock_training.json,ÀÎÆÄÀÌÅÍ(Ãæ°İ ´Ü·Ã),Scrapper(shock training),18999462,29395726,30133018,29757252,30133018.0,8.0
-character_summoner_master_summoner_spsw.json,"¼­¸Ó³Ê(»ó±Ş ¼ÒÈ¯»ç, ¸¶Áú Ã¤¿ë)",Summoner(master summoner),18494545,47056037,40718490,47282591,40718489.625,8.0
-character_soulfist_robust_spirit.json,±â°ø»ç(¿ªÃµÁöÃ¼),Soulfist(robust spirit),18411134,44528966,37576960,53363324,37576960.0,8.0
-character_summoner_master_summoner_spcr.json,"¼­¸Ó³Ê(»ó±Ş ¼ÒÈ¯»ç, ¸¶Áú Ã¤¿ë)",Summoner(master summoner),18357891,52151728,45223391,52345333,45223390.875,8.0
-character_battlemaster_first_intention.json,¹èÆ²¸¶½ºÅÍ(ÃÊ½É),Wardancer(first intention),18247149,34046826,29233604,26275589,29233604.375,8.0
-character_summoner_communication_overflow.json,¼­¸Ó³Ê(³ÑÄ¡´Â ±³°¨),Summoner(communication overflow),17996686,27253998,24217441,27250916,24217440.75,8.0
-character_blaster_barrage_enhancement.json,ºí·¡½ºÅÍ(Æ÷°İ °­È­),Artillerist(barrage enhancement),17721358,22969846,27583061,36384061,27760746.404494382,8.9
-character_devilhunter_pistoleer.json,µ¥ºôÇåÅÍ(ÇÚµå°Å³Ê),Deadeye(pistoleer),17611007,26678332,26254478,30139858,27230864.111111112,9.0
-character_gunslinger_peace_maker.json,°Ç½½¸µ¾î(ÇÇ½º¸ŞÀÌÄ¿),Gunslinger(peace maker),17375130,36234934,39536504,35492541,40008507.38636363,8.8
-character_warlord_lone_knight.json,¿ö·Îµå(°íµ¶ÇÑ ±â»ç),Gunlancer(solo knight),17225656,41258840,31051634,26450667,31051634.5,8.0
-character_striker_deathblow_e2.json,"½ºÆ®¶óÀÌÄ¿(ÀÏ°İÇÊ»ì, 2¿ÀÀÇ ¹æÃµ°İ)","Striker(deathblow, 2 esotheric sweeping kick)",17134420,38516868,29204251,28229240,29204251.125,8.0
-character_soulfist_energy_overflow.json,±â°ø»ç(¼¼¸ÆÅ¸Åë),Soulfist(energy overflow),17122315,36914034,32408232,34705687,36324617.33944954,10.9
-character_aeromancer_drizzle.json,±â»ó¼ú»ç(ÀÌ½½ºñ),Aeromancer(drizzle),17038124,42333338,32537201,34303499,32537201.25,8.0
-character_blaster_firepower_enhancement.json,ºí·¡½ºÅÍ(È­·Â °­È­),Artillerist(firepower enhancement),16757360,31605683,30424165,30678439,30424164.75,8.0
-character_aeromancer_gale_rage_hal.json,"±â»ó¼ú»ç(ÁúÇ³, 2±â4¿ª)",Aeromancer(gale rage),16721419,27595648,26643333,23659372,26643332.625,8.0
-character_demonic_demonic_impulse.json,µ¥¸ğ´Ğ(¸ØÃâ¼ö ¾ø´Â Ãæµ¿),Shadowhunter(demonic impulse),16607846,25106189,22166688,36514147,22438591.979166668,9.6
-character_aeromancer_gale_rage_dom.json,except aeromancer_gale_rage_dom.json,except aeromancer_gale_rage_dom.json,16001389,30092773,25808899,22135723,25808899.25,8.0
-character_warlord_combat_readiness.json,"¿ö·Îµå(ÀüÅõÅÂ¼¼, ¹æ°İÃ¤¿ë)",Gunlancer(combat readiness),15984305,26309832,20544631,21106799,21917643.658536583,12.3
-character_gunslinger_time_to_hunt.json,°Ç½½¸µ¾î(»ç³ÉÀÇ ½Ã°£),Gunslinger(time to hunt),15967970,36783915,33446673,31909323,34678135.61797753,8.9
-character_sorceress_igniter.json,¼Ò¼­¸®½º(Á¡È­),Sorceress(igniter),14672544,73017245,55363445,44501876,55363445.25,8.0
-character_warlord_combat_readiness_v1.json,"¿ö·Îµå(ÀüÅõÅÂ¼¼, ´ë¾îÆÄÃ¤¿ë)","Gunlancer(combat readiness, dash upper fire)",14237656,24261037,18363645,19657451,19979482.452830188,10.6
+./db/skills/lancemaster_pinnacle.json,"ì°½ìˆ ì‚¬(ì ˆì •, 3ë‚œë¬´4ì§‘ì¤‘)","Graivier(pinnacle, 3 Flurry & 4 Focus)",25777697,65412851,49482462,46270360,49482462.375,8.0
+./db/skills/lancemaster_control.json,ì°½ìˆ ì‚¬(ì ˆì œ),Graivier(control),25190346,31607261,30110433,31792214,30354385.853658535,12.3
+./db/skills/blade_burst.json,ë¸”ë ˆì´ë“œ(ë²„ìŠ¤íŠ¸),Deathblade(surge),23690048,32381699,33069424,31995306,33262254.803149607,12.7
+./db/skills/blade_remaining_energy.json,ë¸”ë ˆì´ë“œ(ì”ì¬ëœ ê¸°ìš´),Deathblade(remaining energy),23280674,27800600,27203198,27516433,28693636.285714287,10.5
+./db/skills/reaper_lunar_voice.json,ë¦¬í¼(ë‹¬ì˜ ì†Œë¦¬),Reaper(lunar voice),22028675,39076172,29716822,38461201,36727194.777777776,9.0
+./db/skills/reaper_hunger.json,ë¦¬í¼(ê°ˆì¦),Reaper(hunger),21630307,32832533,29781260,30202700,29781259.875,8.0
+./db/skills/devilhunter_enhanced_weapon.json,ë°ë¹Œí—Œí„°(ê°•í™” ë¬´ê¸°),Deadeye(enhanced weapon),21127881,51214083,48867064,45237757,48867064.375,8.0
+./db/skills/destroyer_rage_hammer.json,ë””ìŠ¤íŠ¸ë¡œì´ì–´(ë¶„ë…¸ì˜ ë§ì¹˜),Destroyer(rage hammer),20933285,37352533,34189546,27720977,34189546.0,8.0
+./db/skills/slayer_devourer_v1.json,"ìŠ¬ë ˆì´ì–´(í¬ì‹ì, í˜ì†Œì±„ìš©7ë”œ)","Slayer(devourer, 7m)",20801097,40450659,37011869,35593400,37011869.125,8.0
+./db/skills/striker_deathblow_c1.json,"ìŠ¤íŠ¸ë¼ì´ì»¤(ì¼ê²©í•„ì‚´, 3ì˜¤ì˜ í’ì‹ ì´ˆë˜)","Striker(deathblow, 3 esotheric call the wind god)",20725462,36730026,27656452,28773661,29972563.854166668,9.6
+./db/skills/slayer_punisher.json,"ìŠ¬ë ˆì´ì–´(ì²˜ë‹¨ì, 1.5ì‚¬ì´í´2ê¸¸2í“¨)",Slayer(punisher),20672182,60559819,55014474,56695581,55014473.5,8.0
+./db/skills/berserker_mayhem.json,"ë²„ì„œì»¤(ê´‘ê¸°, í˜¼ì¼íœ˜ëª°24ì´ˆ)",Berserker(mayhem),20042019,39660948,37427189,31557481,37427189.125,8.0
+./db/skills/slayer_devourer.json,"ìŠ¬ë ˆì´ì–´(í¬ì‹ì, 6ë”œ)","Slayer(devourer, 6m)",19986751,44280273,33617074,33304530,33617074.5,8.0
+./db/skills/devilhunter_enhanced_weapon_nightmare.json,except devilhunter_enhanced_weapon_nightmare.json,except devilhunter_enhanced_weapon_nightmare.json,19975189,43039166,45165934,42694096,45165933.75,8.0
+./db/skills/striker_deathblow.json,"ìŠ¤íŠ¸ë¼ì´ì»¤(ì¼ê²©í•„ì‚´, 3ì˜¤ì˜ í­ì‡„ì§„)","Striker(deathblow, 3 esotheric blast formation)",19931483,45292334,36570136,35207188,37830520.493827164,8.1
+./db/skills/scouter_evolutionary_legacy.json,ìŠ¤ì¹´ìš°í„°(ì§„í™”ì˜ ìœ ì‚°),Machinist(evolutionary legacy),19834084,22275326,22423879,24265409,23444170.246913582,8.1
+./db/skills/demonic_perfect_suppression.json,ë°ëª¨ë‹‰(ì™„ë²½í•œ ì–µì œ),Shadowhunter(perfect suppression),19727976,32348274,24763958,24833786,29338557.82178218,10.1
+./db/skills/infighter_taijutsu.json,ì¸íŒŒì´í„°(ê·¹ì˜ : ì²´ìˆ ),Scrapper(taijutsu),19656070,24978775,22461440,24009986,22941436.024096385,8.3
+./db/skills/scouter_arthetinean_skill_431.json,except scouter_arthetinean_skill_431.json,except scouter_arthetinean_skill_431.json,19021623,41911487,31897035,30436642,31897034.875,8.0
+./db/skills/infighter_shock_training.json,ì¸íŒŒì´í„°(ì¶©ê²© ë‹¨ë ¨),Scrapper(shock training),18999462,29395726,30133018,29757252,30133018.0,8.0
+./db/skills/summoner_master_summoner.json,"ì„œë¨¸ë„ˆ(ìƒê¸‰ ì†Œí™˜ì‚¬, ë§ˆì§ˆ ì±„ìš©)",Summoner(master summoner),18494545,47056037,40718490,47282591,40718489.625,8.0
+./db/skills/soulfist_robust_spirit.json,ê¸°ê³µì‚¬(ì—­ì²œì§€ì²´),Soulfist(robust spirit),18411134,44528966,37576960,53363324,37576960.0,8.0
+./db/skills/battlemaster_first_intention.json,ë°°í‹€ë§ˆìŠ¤í„°(ì´ˆì‹¬),Wardancer(first intention),18247149,34046826,29233604,26275589,29233604.375,8.0
+./db/skills/summoner_communication_overflow.json,ì„œë¨¸ë„ˆ(ë„˜ì¹˜ëŠ” êµê°),Summoner(communication overflow),17996686,27253998,24217441,27250916,24217440.75,8.0
+./db/skills/devilhunter_pistoleer.json,ë°ë¹Œí—Œí„°(í•¸ë“œê±°ë„ˆ),Deadeye(pistoleer),17952243,26678332,26254478,30139858,27230864.111111112,9.0
+./db/skills/blaster_barrage_enhancement.json,ë¸”ë˜ìŠ¤í„°(í¬ê²© ê°•í™”),Artillerist(barrage enhancement),17721358,22969846,27583061,36384061,27760746.404494382,8.9
+./db/skills/gunslinger_peace_maker.json,ê±´ìŠ¬ë§ì–´(í”¼ìŠ¤ë©”ì´ì»¤),Gunslinger(peace maker),17375130,36234934,39536504,35492541,40008507.38636363,8.8
+./db/skills/warlord_lone_knight.json,ì›Œë¡œë“œ(ê³ ë…í•œ ê¸°ì‚¬),Gunlancer(solo knight),17225656,41258840,31051634,26450667,31051634.5,8.0
+./db/skills/striker_deathblow_e2.json,"ìŠ¤íŠ¸ë¼ì´ì»¤(ì¼ê²©í•„ì‚´, 2ì˜¤ì˜ ë°©ì²œê²©)","Striker(deathblow, 2 esotheric sweeping kick)",17134420,38516868,29204251,28229240,29204251.125,8.0
+./db/skills/soulfist_energy_overflow.json,ê¸°ê³µì‚¬(ì„¸ë§¥íƒ€í†µ),Soulfist(energy overflow),17122315,36914034,32408232,34705687,36324617.33944954,10.9
+./db/skills/aeromancer_drizzle.json,ê¸°ìƒìˆ ì‚¬(ì´ìŠ¬ë¹„),Aeromancer(drizzle),17038124,42333338,32537201,34303499,32537201.25,8.0
+./db/skills/blaster_firepower_enhancement.json,ë¸”ë˜ìŠ¤í„°(í™”ë ¥ ê°•í™”),Artillerist(firepower enhancement),16757360,31605683,30424165,30678439,30424164.75,8.0
+./db/skills/aeromancer_gale_rage.json,"ê¸°ìƒìˆ ì‚¬(ì§ˆí’, 2ê¸°4ì—­)",Aeromancer(gale rage),16721419,27595648,26643333,23659372,26643332.625,8.0
+./db/skills/demonic_demonic_impulse.json,ë°ëª¨ë‹‰(ë©ˆì¶œìˆ˜ ì—†ëŠ” ì¶©ë™),Shadowhunter(demonic impulse),16607846,25106189,22166688,36514147,22438591.979166668,9.6
+./db/skills/aeromancer_gale_rage_dom.json,except aeromancer_gale_rage_dom.json,except aeromancer_gale_rage_dom.json,16001389,30092773,25808899,22135723,25808899.25,8.0
+./db/skills/warlord_combat_readiness.json,"ì›Œë¡œë“œ(ì „íˆ¬íƒœì„¸, ë°©ê²©ì±„ìš©)",Gunlancer(combat readiness),15984305,26309832,20544631,21106799,21917643.658536583,12.3
+./db/skills/gunslinger_time_to_hunt.json,ê±´ìŠ¬ë§ì–´(ì‚¬ëƒ¥ì˜ ì‹œê°„),Gunslinger(time to hunt),15967970,36783915,33446673,31909323,34678135.61797753,8.9
+./db/skills/sorceress_igniter.json,ì†Œì„œë¦¬ìŠ¤(ì í™”),Sorceress(igniter),14672544,73017245,55363445,44501876,55363445.25,8.0
+./db/skills/warlord_combat_readiness_v1.json,"ì›Œë¡œë“œ(ì „íˆ¬íƒœì„¸, ëŒ€ì–´íŒŒì±„ìš©)","Gunlancer(combat readiness, dash upper fire)",14237656,24261037,18363645,19657451,19979482.452830188,10.6
