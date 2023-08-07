@@ -64,10 +64,10 @@ if __name__ == '__main__':
         classname_eng = translator_instance.get_eng_classname(skill_set)[1]        
         result = [classname_kor, classname_eng] + simulator.get_result()
         result += [max(edps_statistics), EDPS_LINSPACE[edps_statistics.index(max(edps_statistics))]]
-        result_dps_table.loc[character_file_name] = result
+        result_dps_table.loc[character_dict['skill_set']] = result
         max_damage_values = get_max_damage_values(simulator.damage_history.get_history())
-        dps_all_df.loc[character_file_name] = [classname_kor, classname_eng] + simulator.damage_history.get_edps_statistics(6, 120)
-        max_damages_df.loc[character_file_name] = [classname_kor, classname_eng] + max_damage_values
+        dps_all_df.loc[character_dict['skill_set']] = [classname_kor, classname_eng] + simulator.damage_history.get_edps_statistics(6, 120)
+        max_damages_df.loc[character_dict['skill_set']] = [classname_kor, classname_eng] + max_damage_values
     
     result_dps_table = result_dps_table.sort_values(by=['actual_dps'], ascending=False)
     dps_all_df.to_csv(edps_csv_path)
